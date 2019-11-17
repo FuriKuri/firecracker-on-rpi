@@ -1,0 +1,6 @@
+[submodule "firecracker"]
+	path = firecracker
+	url = https://github.com/firecracker-microvm/firecracker.git
+[submodule "firectl"]
+	path = firectl
+	url = https://github.com/firecracker-microvm/firectl.git
